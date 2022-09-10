@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.Background-img{
+    background-image: url(about-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100vw;
+    height:100vh;
+
+}
+.pri{
+   width: 100%;
+   height:100%;
+   font-size: 26px;
+   color: white;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   background-color: rgba(0,0,0,.5);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
